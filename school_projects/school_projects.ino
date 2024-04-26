@@ -2,6 +2,9 @@
 #include <AltSoftSerial.h>
 #include <TinyGPS++.h>
 
+#include<iostream>
+//or #include<stdio.h>
+// I just felt like either of these two should be included
 #include <SoftwareSerial.h>
 #include <math.h>
 
